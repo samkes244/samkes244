@@ -1,7 +1,5 @@
 Hi I am Samrat Kesharwani
 
-I am currently learning Backend development
+I am currently learning more about MongoDB cloud
 
-I am a frontend developer 
-
-
+I am a Mern stack developer
