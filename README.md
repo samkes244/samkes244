@@ -1,5 +1,5 @@
-Hi I am <b>Samrat Kesharwani<b/>
+# Hi, I am **Samrat Kesharwani** 👋
 
-I am currently learning more about MongoDB cloud
+I am currently learning more about **MongoDB Cloud**.
 
-I am a Web developer
+I am a **Web Developer**.
