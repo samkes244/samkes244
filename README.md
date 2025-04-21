@@ -6,30 +6,29 @@ Welcome to my GitHub profile! I’m a passionate **frontend developer** and an a
 - 🎓 **Education**: Pursuing Computer Science at **IIT Patna**.
 - 🛠️ **Skills**: 
   - Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`.
-  - Backend (Learning): `Node.js`, `Express.js`.
-  - Databases (Exploring): `MongoDB`, `SQL`.
+  - Backend (Learning): `Node.js`, `Express.js`, `Supabase`
+  - Databases (Exploring):  `SQL`.
   - Design Tools: `Photoshop`, `Canva`.
 - 🚀 **Interests**: Web development, creative design, and exploring AI-powered tools.
 
 ## 🌐 What I’m Working On
-- **Portfolio Sites**: Creating visually appealing portfolios for professionals and students.
-- **Landing Pages**: Designing high-performing and user-friendly landing pages.
-- **E-commerce Websites**: Building dynamic and interactive e-commerce platforms.
+- **Invasa Link**: A decentralized platform connecting brands with printing services for efficient, high-quality printing on demand.
+- **Ceoflow**: A task Management tool for startup, team projects and teams.
 
 ## 🛠️ Tools & Technologies
 - 💻 **Frontend Development**: Crafting seamless user experiences with modern frameworks.
 - 🌍 **Web Design**: Blending design with functionality to deliver engaging solutions.
-- 📈 **Future Goals**: Diving deeper into backend technologies and scaling full-stack projects.
+- 📈 **Future Goals**: To become more good at doing what I do and learning news skills, which aligns with my goal
 
 ## 📌 Featured Projects
 - 🌟 **Task Management Platform**: A team collaboration tool to streamline productivity.
-- 🌟 **Personal Portfolio**: An interactive portfolio showcasing my skills and projects.
+- 🌟 **Invasa Link**: A decentralized platform connecting brands with printing services for efficient, high-quality printing on demand.
 
 Check out my repositories to explore my work!
 
 ## 🤝 Connect With Me
 - **LinkedIn**: [Samrat Kesharwani](https://www.linkedin.com/in/samratkesharwani)
-- **Email**: samratkesharwani@example.com
+- **Email**: Samrat@invasalink.in or samratkesharwani22@gmail.com 
 - 💡 Always open to collaborations, discussions, and new opportunities!
 
 Thank you for visiting my GitHub profile. Let’s create something amazing together! 🚀
